@@ -45,20 +45,6 @@ Finally, **Richard Wagner**: both fruit and seed. He consumes Beethoven’s cano
 
 # B
 
-```mermaid
-flowchart TD
-  A[🌱 Schoenberg<br/>Earth / Seed / Roots<br/><small>Mycelium × Plant</small>]
-  B[🌳 Freud · Eric Kandel<br/>Trunk<br/><small>Animal</small>]
-  C[🌿 Goethe<br/>Branching<br/><small>Man × Solo</small>]
-  D[🍃 Ludwig (Beethoven)<br/>Canopy<br/><small>Enterprise × Orchestra</small>]
-  E[🍎 Wagner<br/>Fruit / Seed<br/><small>System × Gesamtkunstwerk</small>]
-
-  A --> B --> C --> D --> E
-  E -.-> A
-
-```
-
-
 | Layer      | Role                    | Figure                  | Modality                     |
 | ---------- | ----------------------- | ----------------------- | ---------------------------- |
 | Roots      | Earth/Seed/(Up) Root(s) | **Schoenberg**          | Mycelium × **Plant**         |
@@ -67,7 +53,8 @@ flowchart TD
 | Canopy     | Institution             | **Ludwig (Beethoven)**  | **Enterprise × Orchestra**   |
 | Fruit→Seed | Projection→Recursion    | **Wagner**              | **System × Gesamtkunstwerk** |
 
----
+
+# C
 
 ```ascii
 #bernstein #harvard #lectures
