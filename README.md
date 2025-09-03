@@ -1,10 +1,10 @@
 `#bernstein` `#harvard` `#lectures` 
 
-- Earth/Seed/(Up) Root(s): Schoenberg 
-- Trunk: Freud/Eric Kandel
-- Branching: Goethe
-- Canopy: Ludwig
-- Fruit/Seed: Wagner
+- Earth/Seed/(Up) Root(s): Schoenberg / Mycellium x Plant
+- Trunk: Freud/Eric Kandel / Animal
+- Branching: Goethe / Man x Solo
+- Canopy: Ludwig / Enterprise x Orchestra
+- Fruit/Seed: Wagner / System x Gesamtkunstwerk
 
 Here’s a way to read your `#bernstein #harvard #lectures` list as a **Tree of Thought** that Leonard Bernstein himself might have smiled at—tying music, philosophy, and psychology into your recursive “root → trunk → branch → canopy → fruit” model:
 
