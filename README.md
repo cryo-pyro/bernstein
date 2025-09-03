@@ -46,45 +46,18 @@ Finally, **Richard Wagner**: both fruit and seed. He consumes Beethoven’s cano
 # B
 
 ```mermaid
-mindmap
-  root((#bernstein #harvard #lectures<br/>Tree of Thought))
-    ("🌱 Schoenberg<br/><small>Earth / Seed / (Up) Roots</small><br/><small>Mycelium × Plant</small>")
-      :::roots
-    ("🌳 Freud · Eric Kandel<br/><small>Trunk</small><br/><small>Animal</small>")
-      :::trunk
-    ("🌿 Goethe<br/><small>Branching</small><br/><small>Man × Solo</small>")
-      :::branching
-    ("🍃 Ludwig (Beethoven)<br/><small>Canopy</small><br/><small>Enterprise × Orchestra</small>")
-      :::canopy
-    ("🍎 Wagner<br/><small>Fruit / Seed</small><br/><small>System × Gesamtkunstwerk</small>")
-      :::fruit
-
-%% Styles
-classDef roots fill:#0b3d2e,stroke:#0b3d2e,color:#e6fff5;
-classDef trunk fill:#15314b,stroke:#15314b,color:#e6f1ff;
-classDef branching fill:#2f2a4a,stroke:#2f2a4a,color:#efe9ff;
-classDef canopy fill:#3b2f1e,stroke:#3b2f1e,color:#fff1e0;
-classDef fruit fill:#4a1f1f,stroke:#4a1f1f,color:#ffeaea;
-```
-
-```mermaid
 flowchart TD
-  A[🌱 Schoenberg<br/>Earth / Seed / (Up) Roots<br/><small>Mycelium × Plant</small>]:::roots
-  B[🌳 Freud · Eric Kandel<br/>Trunk<br/><small>Animal</small>]:::trunk
-  C[🌿 Goethe<br/>Branching<br/><small>Man × Solo</small>]:::branching
-  D[🍃 Ludwig (Beethoven)<br/>Canopy<br/><small>Enterprise × Orchestra</small>]:::canopy
-  E[🍎 Wagner<br/>Fruit / Seed<br/><small>System × Gesamtkunstwerk</small>]:::fruit
+  A[🌱 Schoenberg<br/>Earth / Seed / Roots<br/><small>Mycelium × Plant</small>]
+  B[🌳 Freud · Eric Kandel<br/>Trunk<br/><small>Animal</small>]
+  C[🌿 Goethe<br/>Branching<br/><small>Man × Solo</small>]
+  D[🍃 Ludwig (Beethoven)<br/>Canopy<br/><small>Enterprise × Orchestra</small>]
+  E[🍎 Wagner<br/>Fruit / Seed<br/><small>System × Gesamtkunstwerk</small>]
 
   A --> B --> C --> D --> E
-  E -. “seeds fall back to earth” .-> A
-
-  classDef roots fill:#0b3d2e,stroke:#0b3d2e,color:#e6fff5;
-  classDef trunk fill:#15314b,stroke:#15314b,color:#e6f1ff;
-  classDef branching fill:#2f2a4a,stroke:#2f2a4a,color:#efe9ff;
-  classDef canopy fill:#3b2f1e,stroke:#3b2f1e,color:#fff1e0;
-  classDef fruit fill:#4a1f1f,stroke:#4a1f1f,color:#ffeaea;
+  E -.-> A
 
 ```
+
 
 | Layer      | Role                    | Figure                  | Modality                     |
 | ---------- | ----------------------- | ----------------------- | ---------------------------- |
@@ -96,4 +69,37 @@ flowchart TD
 
 ---
 
-Would you like me to map this into a **visual tree diagram** (Mermaid / SVG) so you can drop it into your notes or HTML prototypes?
+```ascii
+#bernstein #harvard #lectures
+
+            🌱 Schoenberg
+     Earth / Seed / Roots
+        (Mycelium × Plant)
+                  |
+                  v
+        🌳 Freud · Eric Kandel
+              Trunk
+              (Animal)
+                  |
+                  v
+             🌿 Goethe
+            Branching
+          (Man × Solo)
+                  |
+                  v
+        🍃 Ludwig (Beethoven)
+              Canopy
+     (Enterprise × Orchestra)
+                  |
+                  v
+            🍎 Wagner
+          Fruit → Seed
+(System × Gesamtkunstwerk)
+                  |
+                  v
+        -- seeds fall back --
+                  |
+                  v
+            🌱 Schoenberg ...
+
+```
