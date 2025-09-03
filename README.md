@@ -11,37 +11,64 @@ Here’s a way to read your `#bernstein #harvard #lectures` list as a **Tree of 
 
 ---
 
-## 🌱 Roots / Earth / Seed — Schoenberg
-
-Bernstein begins with **Arnold Schoenberg**, not only as a composer but as a *radical* seed that disrupts tonality itself. He represents the “uprooting” of harmony from its soil of tradition, planting the dodecaphonic system as an earth-shaking germ for 20th-century music. The roots are uneasy, dissonant, unsettling—but fecund.
+ahhh, I see what you mean — let me tune it closer to your **Brechtian “more honored in the breach” lens**.
 
 ---
 
-## 🌳 Trunk — Freud / Eric Kandel
+### 🌱 Schoenberg — the Uprooter
 
-The **trunk** is psychoanalytic: Freud probing the unconscious, Eric Kandel bridging to the molecular memory trace. Together they anchor the system in human psyche and biology—sap rising. The trunk is sturdy, explanatory, channeling hidden roots (Schoenberg’s radical break) upward into a coherent organism of meaning and memory.
-
----
-
-## 🌿 Branching — Goethe
-
-**Goethe** is branching, expansive, the poet-scientist of metamorphosis. He reaches into multiple domains—literature, science, myth—structuring the way the tree unfolds. Branches diversify, yet remain connected, just as Goethe’s polymathic imagination touches music, philosophy, and nature’s design.
+* Not a nourishing root but an **axeman** of roots.
+* His dodecaphony doesn’t *grow* from tradition, it **cuts the trunk away**.
+* Hence: *honored in the breach, not the observance* → people cite him as “necessary,” but rarely *love* him.
+* He’s more like a controlled burn in the forest — clearing space by fire, not feeding with mycelium.
 
 ---
 
-## 🍃 Canopy — Ludwig (Beethoven)
+### 🌳 Freud (symptom of the age) → Eric Kandel (downstream echo)
 
-At the **canopy**, we find **Beethoven** (Ludwig van). His work spreads like a great roof over Western music, shading and sheltering everything beneath. He takes Schoenberg’s root-discords (proto-romantic ruptures) and Goethe’s branching metaphors, synthesizing them into a monumental crown—visible, enduring, thunderous.
-
----
-
-## 🍎 Fruit / Seed — Wagner
-
-Finally, **Richard Wagner**: both fruit and seed. He consumes Beethoven’s canopy (his works are unthinkable without the Ninth Symphony) and generates new seeds—leitmotifs, Gesamtkunstwerk, mythic cycles—that will fall, rot, and sprout into both modernist revolutions and ideological nightmares. His fruit is lush, but also heavy, fermenting toward future generations.
+* Freud isn’t the trunk as essence; he’s a **symptom of Zeitgeist**, a diagnostic growth on the trunk.
+* He interprets rupture and malaise, codifying the anxieties that Schoenberg’s uprooting releases.
+* Eric Kandel comes much later, as a **biological after-echo** — neuron by neuron reduction of Freud’s dream-symbolism into molecular circuits.
+* The trunk here is less about strength and more about the visible **scar-tissue of modernity**.
 
 ---
 
-✨ **Recursive note:** Schoenberg the radical root emerges again as Wagner’s “seed” carried forward—so your cycle closes: Earth → Trunk → Branching → Canopy → Fruit → back into Earth. Very Bernsteinian, very Pyromancerian.
+### 🌿 Goethe — Branching, but also Nostalgic Counterforce
+
+* Goethe represents what is *lost* when Schoenberg uproots: polymathic branching, natural metamorphosis, humane synthesis.
+* Against the rupture, Goethe is invoked as **counterweight** — the dream of organic branching in an age of fracture.
+* He stands as the humanist ghost that haunts the dissonance.
+
+---
+
+### 🍃 Beethoven (Ludwig) — Canopy under Siege
+
+* Beethoven once was the great canopy, shading all below.
+* But under Schoenberg’s axe, that canopy becomes a **memory, a relic**, even a target.
+* The 20th century keeps Beethoven as an emblem of unity — but he’s carried like a **totem**, not lived as a present canopy.
+
+---
+
+### 🍎 Wagner — Fruit that Ferments and Rots
+
+* Wagner takes the canopy-fruit of Beethoven and ferments it.
+* His fruit intoxicates, overripe, breeding both artistic brilliance and ideological poison.
+* Wagner’s Gesamtkunstwerk is seed, yes, but also a **toxin that germinates weeds** (nationalism, fascist aesthetics).
+
+---
+
+### ✨ The Cycle Seen as Rupture
+
+* Instead of smooth organic recursion, your tree is one of **rupture and symptom**.
+* Schoenberg uproots → Freud interprets the neurosis → Kandel reduces it to molecular traces → Goethe is remembered wistfully → Beethoven is canonized but frozen → Wagner ferments into both seed and poison.
+* Each stage is less “growth” and more **aftermath**.
+
+---
+
+🔥 This flips the reading: instead of a healthy tree, it’s a **haunted organism**.
+The tree grows but only by **scarring, rupture, and uneasy grafts**.
+
+
 
 # B
 
